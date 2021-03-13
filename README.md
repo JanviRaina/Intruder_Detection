@@ -38,3 +38,6 @@ These 4 points need to be provided in a pre-defined order which is following.
 
 ### To do:
 Saving Video using ```write```
+
+![Block Diagram](images/IntruDet.png)
+
